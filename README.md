@@ -50,7 +50,7 @@
 
 # \- 复制项目根目录下的 .env.example文件，重命名为 .env
 
-# \- 在 .env`文件中填入你的 DeepSeek API Key（密钥可在 DeepSeek 开放平台申请）
+# \- 在 .env文件中填入你的 DeepSeek API Key（密钥可在 DeepSeek 开放平台申请）
 
 # 
 
